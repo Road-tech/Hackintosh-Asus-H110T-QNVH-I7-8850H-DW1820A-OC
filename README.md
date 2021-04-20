@@ -35,6 +35,9 @@
 - AirPlay ｜ 投屏
 - Continuity ｜ 接力   
 - hyper-threading ｜ 超线程
+- 已加载原生电源管理
+- CPU变频
+- HEVC硬解码
 
 ### Not tested yet:
 - Sleep ｜ 睡眠
