@@ -127,7 +127,7 @@ BIOS在上图左下角红框的位置，拔下来刷入。
 * 系统镜像：请自备 macOS Big Sur 11.2.3 安装镜像   
 * OC编辑工具：OpenCore Configurator [下载地址](https://mackie100projects.altervista.org/)    
 * 镜像写入工具：Etcher （Windows，macOS，Linux皆可运行） [下载地址](https://www.balena.io/etcher/)    
-* 我提供的OC引导的EFI：[下载地址](https://github.com/Road-tech/Hackintosh-AsusH110T-QNVH-I7-8850H-DW1820A-OC.git)    
+* 我提供的OC引导的EFI：[下载地址](https://github.com/Road-tech/Hackintosh-AsusH110T-QNVH-I7-8850H-DW1820A-OC/releases/download/v1.0/EFI.zip)    
 * 准备一个大于10g的u盘    
 
 安装过程我就不重复了，大家可以参考下[我之前的文章](https://post.smzdm.com/p/adwrg48d/)。
