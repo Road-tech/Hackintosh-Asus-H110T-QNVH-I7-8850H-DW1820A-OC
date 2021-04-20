@@ -80,7 +80,7 @@ You need to prepare a device programmer like ch341a, GZU OnePro(Recommend),
 BIOS在上图左下角红框的位置，拔下来刷入。
 **建议使用编程器刷入BIOS！**
 
-当然你也可以尝试软刷bios，具体教程和BIOS文件都打包在[H110T-ASUS-4212.zip]()
+当然你也可以尝试软刷bios，具体教程和BIOS文件都打包在[H110T-ASUS-4212.zip](https://github.com/Road-tech/Hackintosh-AsusH110T-QNVH-I7-8850H-DW1820A-OC/raw/main/H110T-ASUS-4212.zip)
 
 ---
 
@@ -127,7 +127,7 @@ BIOS在上图左下角红框的位置，拔下来刷入。
 * 系统镜像：请自备 macOS Big Sur 11.2.3 安装镜像   
 * OC编辑工具：OpenCore Configurator [下载地址](https://mackie100projects.altervista.org/)    
 * 镜像写入工具：Etcher （Windows，macOS，Linux皆可运行） [下载地址](https://www.balena.io/etcher/)    
-* 我提供的OC引导的EFI：[下载地址](https://github.com/Road00/Hackintosh-for-Asus-H110T-QN8J-I7-8700T-ES-DW1820A-using-Opencore-and-Support-macOS-Catalina)    
+* 我提供的OC引导的EFI：[下载地址](https://github.com/Road-tech/Hackintosh-AsusH110T-QNVH-I7-8850H-DW1820A-OC.git)    
 * 准备一个大于10g的u盘    
 
 安装过程我就不重复了，大家可以参考下[我之前的文章](https://post.smzdm.com/p/adwrg48d/)。
