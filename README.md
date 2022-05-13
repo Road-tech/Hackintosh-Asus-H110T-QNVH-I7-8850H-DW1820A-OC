@@ -1,4 +1,4 @@
-# Hackintosh for Asus-H110T, QNVH(8850hes), DW1820A, using Opencore and Support macOS Big Sur  
+# Hackintosh for Asus-H110T, QNVH(8850hes), DW1820A, using Opencore and Support macOS Monterey  
 
 ![image](https://github.com/Road00/Hackintosh-AsusH110T-QN8J-I7-8700Tes--DW1820A-Opencore/blob/master/figure/0000.jpg?raw=true)  
 
@@ -6,6 +6,25 @@
 
 **使用EFI前请务必修改三码(SSN,UUID,ROM)**    
 **Please change three system codes (SSN,UUID,ROM) before using this EFI**   
+
+---
+
+2021-05-14 更新
+
+- Update Opencore to 0.8.0  
+- Update VirtualSMC to 1.2.9
+- Update SMCProcessor to 1.2.9
+- Update SMCSuperIO to 1.2.9
+- Update WhateverGreen t0 1.5.8
+- Update AppleALC to 1.7.1
+- Update LiLu to 1.6.0    
+- Update Whatevergreen to 1.5.8     
+- Update AppleALC to 1.7.1  
+- 因为DW1820A无法在macOS Monterey 12.1运行，已经将DW1820A更换为BCM94360Z4
+- Add BlueToolFixup to support BCM94360Z4
+- Add BrcmBluetoothInjector.kext to support BCM94360Z4
+- remove DW1820A drives
+- Support to macOS Monterey 12.13.1
 
 ---
 
